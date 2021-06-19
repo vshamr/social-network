@@ -1,10 +1,11 @@
 .header {
     grid-area: h;
-    background-color: green;
+    background-color: lightskyblue;
 }
 
 .header img {
-    width: 20px;
+    height: 100%;
+    width: 70px;
 }
 
 .login_block a{
